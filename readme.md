@@ -14,7 +14,7 @@ See the [wiki](http://chris-minecraft-mods.wikia.com/wiki/Smooth_Glowstone) for 
 
 ## Download
 
-[SmoothGlowstone-0.1.jar](https://github.com/crazysnailboy/modarch/raw/master/bin/SmoothGlowstone-0.1.jar)
+[SmoothGlowstone-0.1.jar](https://github.com/crazysnailboy/Smooth-Glowstone/raw/master/bin/SmoothGlowstone-0.1.jar)
 
 *Requires Minecraft Forge 11.14.1.1336*
 
