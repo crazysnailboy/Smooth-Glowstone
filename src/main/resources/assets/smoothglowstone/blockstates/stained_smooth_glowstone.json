@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "colour=white": { "model": "smoothglowstone:stained_smooth_glowstone_white" },
+        "colour=orange": { "model": "smoothglowstone:stained_smooth_glowstone_orange" },
+        "colour=magenta": { "model": "smoothglowstone:stained_smooth_glowstone_magenta" },
+        "colour=lightblue": { "model": "smoothglowstone:stained_smooth_glowstone_lightblue" },
+        "colour=yellow": { "model": "smoothglowstone:stained_smooth_glowstone_yellow" },
+        "colour=lime": { "model": "smoothglowstone:stained_smooth_glowstone_lime" },
+        "colour=pink": { "model": "smoothglowstone:stained_smooth_glowstone_pink" },
+        "colour=gray": { "model": "smoothglowstone:stained_smooth_glowstone_gray" },
+        "colour=lightgray": { "model": "smoothglowstone:stained_smooth_glowstone_lightgray" },
+        "colour=cyan": { "model": "smoothglowstone:stained_smooth_glowstone_cyan" },
+        "colour=purple": { "model": "smoothglowstone:stained_smooth_glowstone_purple" },
+        "colour=blue": { "model": "smoothglowstone:stained_smooth_glowstone_blue" },
+        "colour=brown": { "model": "smoothglowstone:stained_smooth_glowstone_brown" },
+        "colour=green": { "model": "smoothglowstone:stained_smooth_glowstone_green" },
+        "colour=red": { "model": "smoothglowstone:stained_smooth_glowstone_red" },
+        "colour=black": { "model": "smoothglowstone:stained_smooth_glowstone_black" }
+        
+    }
+}

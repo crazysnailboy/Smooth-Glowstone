@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "smoothglowstone:blocks/stained_smooth_glowstone/red.bordered"
+    }
+}

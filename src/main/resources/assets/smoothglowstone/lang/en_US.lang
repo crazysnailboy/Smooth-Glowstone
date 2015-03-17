@@ -1,0 +1,21 @@
+itemGroup.tabGlowstone=Chris' Smooth Glowstone Mod
+
+tile.smooth_glowstone_normal.name=Smooth Glowstone
+tile.smooth_glowstone_bordered.name=Bordered Smooth Glowstone
+
+tile.stained_smooth_glowstone.white.name=White Smooth Glowstone
+tile.stained_smooth_glowstone.orange.name=Orange Smooth Glowstone
+tile.stained_smooth_glowstone.magenta.name=Magenta Smooth Glowstone
+tile.stained_smooth_glowstone.lightblue.name=Light Blue Smooth Glowstone
+tile.stained_smooth_glowstone.yellow.name=Yellow Smooth Glowstone
+tile.stained_smooth_glowstone.lime.name=Lime Smooth Glowstone
+tile.stained_smooth_glowstone.pink.name=Pink Smooth Glowstone
+tile.stained_smooth_glowstone.gray.name=Gray Smooth Glowstone
+tile.stained_smooth_glowstone.lightgray.name=Light Gray Smooth Glowstone
+tile.stained_smooth_glowstone.cyan.name=Cyan Smooth Glowstone
+tile.stained_smooth_glowstone.purple.name=Purple Smooth Glowstone
+tile.stained_smooth_glowstone.blue.name=Blue Smooth Glowstone
+tile.stained_smooth_glowstone.brown.name=Brown Smooth Glowstone
+tile.stained_smooth_glowstone.green.name=Green Smooth Glowstone
+tile.stained_smooth_glowstone.red.name=Red Smooth Glowstone
+tile.stained_smooth_glowstone.black.name=Black Smooth Glowstone

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=normal": { "model": "smoothglowstone:smooth_glowstone_normal" },
+        "variant=bordered": { "model": "smoothglowstone:smooth_glowstone_bordered" }
+    }
+}

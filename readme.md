@@ -1,13 +1,20 @@
 # Smooth Glowstone
 
-A mod which adds smooth glowstone to Minecraft. 
+A Minecraft mod which allows glowstone to be smelted into smooth glowstone.
 
 ![Screenshot of Smooth Glowstone](http://i.imgur.com/ja68DcK.png)
+
+Original idea courtesy of [reddit](http://www.reddit.com/r/minecraftsuggestions/comments/1qbd0e/smelt_glowstone_to_get_smooth_glowstone/),
+with textures lifted from [Imgur](http://imgur.com/a/7z6ho) - thanks guys :)
+
+
+See the [wiki](http://chris-minecraft-mods.wikia.com/wiki/Smooth_Glowstone) for crafting recipes
+
 
 
 ## Download
 
-[SmoothGlowstone-0.1.jar]()
+[SmoothGlowstone-0.1.jar](https://github.com/crazysnailboy/modarch/raw/master/bin/SmoothGlowstone-0.1.jar)
 
 *Requires Minecraft Forge 11.14.1.1336*
 
